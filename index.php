@@ -441,7 +441,7 @@ footer {
                   <div class="card-category">Africa</div>
                   <h3 class="card-title">Gaborone</h3>
                   <p class="card-duration">Typical Duration: 2-4 Days</p>
-                  <p class="card-desc">Historical context of the capital of Botswana, providing a general overview of its development and proximity to diverse wildlife habitats.</p>
+                  <p class="card-desc">Historical context of the capital of Botswana providing a general overview of its development and proximity to diverse wildlife habitats.</p>
                   <a href="#contact-us" class="card-btn">Contact Us</a>
                </div>
             </div>
