@@ -381,7 +381,7 @@ footer {
          <div class="grid-container">
             <!-- Card 1 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/1.jpg" alt="">
+               <img src="https://yonderpath.site/media/3.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">Europe</div>
                   <h3 class="card-title">Helsinki</h3>
@@ -392,7 +392,7 @@ footer {
             </div>
             <!-- Card 2 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/2.jpg" alt="">
+               <img src="https://yonderpath.site/media/5.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">East Asia</div>
                   <h3 class="card-title">Busan</h3>
@@ -403,7 +403,7 @@ footer {
             </div>
             <!-- Card 3 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/3.jpg" alt="">
+               <img src="https://yonderpath.site/media/4.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">Middle East</div>
                   <h3 class="card-title">Salalah</h3>
@@ -414,7 +414,7 @@ footer {
             </div>
             <!-- Card 4 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/4.jpg" alt="">
+               <img src="https://yonderpath.site/media/6.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">Latin America</div>
                   <h3 class="card-title">Valparaíso</h3>
@@ -425,7 +425,7 @@ footer {
             </div>
             <!-- Card 5 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/5.jpg" alt="">
+               <img src="https://yonderpath.site/media/1.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">North America</div>
                   <h3 class="card-title">Minneapolis</h3>
@@ -436,7 +436,7 @@ footer {
             </div>
             <!-- Card 6 -->
             <div class="card">
-               <img src="https://yonderpath.site/media/6.jpg" alt="">
+               <img src="https://yonderpath.site/media/2.jpg" alt="">
                <div class="card-content">
                   <div class="card-category">Africa</div>
                   <h3 class="card-title">Gaborone</h3>
