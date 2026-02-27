@@ -574,4 +574,17 @@ Safe Path is an independent informational platform. We do not sell, arrange, rec
          document.getElementById('currentDate').textContent = `${monthNames[now.getMonth()]} ${now.getFullYear()}`;
       </script>
    </body>
+   tawk to: <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/69a14dbe7fa0b81c34870128/1jif1fcln';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </html>
