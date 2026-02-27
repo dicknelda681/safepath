@@ -11,15 +11,15 @@
       <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 :root {
-	--leather: #92400E;
-	--oasis: #0EA5E9;
-	--hero-start: #FDE68A;
-	--hero-end: #F59E0B;
-	--dune: #FEF3C7;
-	--rug: #FDE047;
-	--night: #431407;
-	--henna: #EA580C;
-	--text-main: #431407;
+--leather: #7C2D12;
+--oasis: #0284C7;
+--hero-start: #FEF08A;
+--hero-end: #F97316;
+--dune: #FFF7ED;
+--rug: #FACC15;
+--night: #1C1917;
+--henna: #DC2626;
+--text-main: #292524;
 }
 
 * {
